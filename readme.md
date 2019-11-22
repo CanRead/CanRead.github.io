@@ -12,7 +12,7 @@ CanRead was created at the [Houghton Mifflin Harcourt Creative Codefest](http://
 
 # Team 
 
-CanRead was created by [Noah Teshu](https://github.com/Noah-T), [Yee Ling Gan](https://github.com/funtowrite) [Elaine], [Lisa Williams](http://github.com/lisawilliams), [Simon Tran](https://github.com/smn1022), and Josh 
+CanRead was created by [Noah Teshu](https://github.com/Noah-T), [Yee Ling Gan](https://github.com/funtowrite) [Elaine], [Lisa Williams](http://github.com/lisawilliams), [Simon Tran](https://github.com/simonztran), and Josh 
 
 # Tools 
 
